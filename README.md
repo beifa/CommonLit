@@ -7,3 +7,9 @@ Results:
 First place score = 0.446
 
 50 place = 0.455
+
+
+add interest links
+- [Transformers Notebooks huggingface](https://huggingface.co/transformers/notebooks.html)'
+- [Community Transformers Notebooks huggingface](https://huggingface.co/transformers/master/community.html#community-notebooks)
+- [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
