@@ -10,16 +10,31 @@ First place score = 0.446
 
 Description notebook:
 1. work_on_error
-2. work_on_error2
-3. work_on_error3
-4. work_on_error4
-5. work_on_error5 (22 place solution)
-    - feature engineering
-    - class dataset
-    - optimizer
-    - forward
-    - re-init
-    - modules&heads
+    - Huggingface course
+    - Summary of the models
+    - Gradient Accumulation
+    - Perplexity
+    - Retrain mlm&results
+3. work_on_error2
+    - Pooler_output
+    - Last_hidden_state
+    - Hidden_states_output
+4. work_on_error3
+    - Reinitializing Transformer Layers 
+    - Utilizing Intermediate Layers
+    - Layerwise Learning Rate Decay
+    - HuggingFace Schedulers & Differential LRs
+    - Mixout Regularization
+    - Pre-trained Weight Decay
+    - Stochastic Weight Averaging
+5. work_on_error4 (pairwise-mode)
+6. work_on_error5 (22 place solution)
+    - Feature engineering
+    - Class dataset
+    - Optimizer
+    - Forward
+    - Re-init
+    - Modules&heads
 
 
 add interest links
