@@ -8,13 +8,18 @@ First place score = 0.446
 
 50 place = 0.455
 
-
-TODO:
-- make a description of each notebook
-- abhishekkrthakur (Score: 0.466 OOF, Public: 0.462 LB, Private: 0.464 LB)
-- check tez
-- check last example for one of the best result, find in notebook error(i started with him
-
+Description notebook:
+1. work_on_error
+2. work_on_error2
+3. work_on_error3
+4. work_on_error4
+5. work_on_error5 (22 place solution)
+    - feature engineering
+    - class dataset
+    - optimizer
+    - forward
+    - re-init
+    - modules&heads
 
 
 add interest links
